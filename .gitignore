@@ -1,0 +1,6 @@
+# VSCode
+*/.vscode
+
+# pio build artifacts
+.pio
+*/.pio
