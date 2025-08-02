@@ -18,3 +18,8 @@ Not super related but I need to rant this somewhere: somehow adafruit's ESP32-S3
 #define LED_PIN 33
 #define NEOPIXEL_POWER 21
 ```
+
+
+## ESP32_Duo_Gimbal
+
+Double the fun. Added leader-follower mode - currently hard coded to motor 1.
