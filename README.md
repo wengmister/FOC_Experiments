@@ -22,4 +22,6 @@ Not super related but I need to rant this somewhere: somehow adafruit's ESP32-S3
 
 ## ESP32_Duo_Gimbal
 
-Double the fun. Added leader-follower mode - currently hard coded to motor 1.
+Double the fun. 
+
+Using 2x AS5600, since their address are hard-wired, we're now using `Wire1` for second I2C. Also added leader-follower mode - currently hard coded to motor 1. 
